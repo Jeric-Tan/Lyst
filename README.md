@@ -4,6 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+Please refer to this in depth [README](https://docs.google.com/document/d/1Tl85aLkf3QnrJHRR-3wpxxKs0udgjeUZCwYEf6T-fEc/edit?usp=sharing) for more details.
 
 ## 🚀 Getting Started
 
